@@ -1,3 +1,4 @@
+package com.example;
 public class ShoppingCart {
     private int itemsCount = 0;
     private double totalAmount = 0.0;

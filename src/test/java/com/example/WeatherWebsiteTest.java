@@ -1,3 +1,9 @@
+package com.example;
+import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.*;
+import org.junit.jupiter.api.*;
+import org.mockito.*;
+
 public class WeatherWebsiteTest {
     @Mock 
     private IStubWeatherForecaster mockForecaster;

@@ -1,3 +1,5 @@
-/workspaces/UnitTesting/shopping-cart/src/main/java/com/example/ShoppingCart.java
-/workspaces/UnitTesting/shopping-cart/src/main/java/com/example/UserRegistration.java
-/workspaces/UnitTesting/shopping-cart/src/main/java/com/example/EmailService.java
+/workspaces/UnitTesting/src/main/java/com/example/ShoppingCart.java
+/workspaces/UnitTesting/src/main/java/com/example/IStubWeatherForecaster.java
+/workspaces/UnitTesting/src/main/java/com/example/UserRegistration.java
+/workspaces/UnitTesting/src/main/java/com/example/WeatherWebsite.java
+/workspaces/UnitTesting/src/main/java/com/example/EmailService.java
